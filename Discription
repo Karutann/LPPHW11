@@ -1,0 +1,12 @@
+HW11
+
+1	พิมพ์ค่าจากอาร์เรย์เฉพาะค่าที่มีค่ามากกว่าค่าเฉลี่ย
+methodarray 1d	2.00	
+2	ตรวจข้อสอบ
+methodarray 2d	2.00	
+3	GPA
+methodarray 1d	2.00	
+4	เซนเซอร์ข้อมูล
+methodarray 2d	2.00	
+5	ผลคูณ
+methodrecursion	2.00
